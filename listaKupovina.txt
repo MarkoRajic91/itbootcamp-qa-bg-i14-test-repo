@@ -1,5 +1,7 @@
 -kafa
 -pasta
 -cokolada
--jogurt
+-mleko
 -sminka
+-nesto1
+-nesto2
